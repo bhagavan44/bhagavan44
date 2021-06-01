@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![Metrics](https://github.com/bhagavan44/bhagavan44/blob/main/github-metrics.svg)
+![Metrics - Additional](https://github.com/bhagavan44/bhagavan44/blob/main/metrics.additional.svg)
 
 <!--
 **bhagavan44/bhagavan44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
